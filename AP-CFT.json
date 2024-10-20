@@ -1,0 +1,1405 @@
+{
+    "text": "C.- Constantes f\u00edsicas y tablas.\nTablaC.1.UnidadesSIb\u00e1sicasysuplementarias(1282);\u00a7C.2.Definicionesdelasunidades\nSI b\u00e1sicas y suplementarias (1282); TablaC.3.Unidades SI derivadas con nombres y\ns\u00edmbolos especiales (1284); TablaC.4.Ejemplos de unidades SI derivadas expresadas a\npartir de las que tienen nombres especiales (1285); TablaC.5.Nombres y s\u00edmbolos\nespeciales de m\u00faltiplos y subm\u00faltiplos decimales de unidades SI autorizadas (1286);\nTablaC.6.Unidades definidas a partir de las unidades SI, pero que no son m\u00faltiplos o\nsubm\u00faltiplosdecimalesdedichasunidades(1286);TablaC.7.UnidadesenusoconelSI\ncuyovalorenunidadesSIsehaobtenidoexperimentalmente(1287);TablaC.8.Unidades\nadmitidas\u00fanicamenteensectoresdeaplicaci\u00f3nespecializados(1287);TablaC.9.Unidades\nno pertenecientes al SI que reciben nombres especiales (1288); \u00a7C.10.Escritura de los\ns\u00edmbolos,nombresyn\u00fameros(1290);\u00a7C.11.M\u00faltiplosysubm\u00faltiplosdecimales(1291);\nTablaC.12.M\u00faltiplosysubm\u00faltiplosdecimalesdelaunidad(1291);TablaC.13.Alfabeto\ngriego(1293);TablaC.14.Constantesf\u00edsicasfundamentales(1294);TablaC.15.Algunos\ndatos f\u00edsicos de inter\u00e9s general (1295); TablaC.16.Datos acerca de los planetas (1296);\nTablaC.17.AlgunasunidadesdelSistemaAnglosaj\u00f3n(1297)\nEn el Real Decreto 1317/1989, de 27 de octubre (B.O.E. n\u00fam. 264, de 3 de\nnoviembre de 1989), se establece como Unidades Legales de Medida en Espa\u00f1a\nlas unidades b\u00e1sicas, suplementarias y derivadas del Sistema Internacional de\nUnidades (SI), adoptado por la Conferencia General de Pesas y Medidas (CGPM) y\nvigenteenlaComunidadEcon\u00f3micaEuropea(CEE).ElcitadoRealDecretodispone:\nArt\u00edculo \u00fanico.\n1. El Sistema Legal de Unidades de medida obligatorio en Espa\u00f1a es el sistema\nm\u00e9trico decimal de siete unidades b\u00e1sicas, denominado Sistema Internacional de\nUnidades (SI), adoptado por la Conferencia General de Pesas y Medidas y vigente\nen la Comunidad Econ\u00f3mica Europea.\n2.QuedanrelacionadasydefinidasenelanexoalpresenteRealDecretolasunidades\nSIb\u00e1sicasysuplementarias(TablaC.1),lasunidadesSIderivadas(TablasC.3aC.7)\ny las reglas para la formaci\u00f3n de los m\u00faltiplos y subm\u00faltiplos de dichas unidades\n(Tabla C.12).\n3. Queda asimismo autorizado el empleo de las unidades recogidas en la Tabla C.8\ndel citado anexo.\nDisposici\u00f3n transitoria.\nLos instrumentos, aparatos, medios y sistemas de medida deber\u00e1n llevar sus\nindicaciones de magnitud en una sola unidad de medida legal a partir de 31 de\nDiciembre de 1990.\nManuelR.OrtegaGir\u00f3n 12811282 Ap\u00e9ndiceC.-Constantesf\u00edsicasytablas.\nTabla C.1. Unidades SI b\u00e1sicas y suplementarias.\nunidad\nmagnitud\nnombre s\u00edmbolo\nunidades b\u00e1sicas\nlongitud metro m\nmasa kilogramo kg\ntiempo segundo s\nintensidad de corriente el\u00e9ctrica ampere (amperio) A\ntemperatura termodin\u00e1mica kelvin (kelvinio) K\ncantidad de sustancia mol mol\nintensidad luminosa candela cd\nunidades suplementarias\n\u00e1ngulo plano radi\u00e1n rad\n\u00e1ngulo s\u00f3lido estereorradi\u00e1n sr\n\u00a7C.2. Definiciones de las unidades SI b\u00e1sicas y suplementarias.-\nLas definiciones de las unidades SI b\u00e1sicas son las siguientes:\nEl metro (m) es la longitud del trayecto recorrido en el vac\u00edo por la luz durante\nun tiempo de 1/299 792 458 de segundo. (17\u00aa CGPM, 1983).\nEl kilogramo (kg) es la masa del prototipo internacional, constituido por un\ncilindro de aleaci\u00f3n de iridio-platino, que se conserva en la oficina Internacional de\nPesas y Medidas de Par\u00eds. Esta es la \u00fanica unidad b\u00e1sica definida a\u00fan mediante un\nobjeto-patr\u00f3n. (3\u00aa CGPM, 1901)\nEl segundo (s) es la duraci\u00f3n de 9 192 631 770 periodos de la radiaci\u00f3n\ncorrespondientealatransici\u00f3nentrelosniveleshiperfinosdelestadofundamentaldel\n\u00e1tomo de cesio-133. (13\u00aa CGPM, 1967)Ap\u00e9ndiceC.-Constantesf\u00edsicasytablas. 1283\nEl ampere (A) es la intensidad de una corriente constante que, manteni\u00e9ndose\nen dos conductores paralelos, rectil\u00edneos, de longitud infinita, de secci\u00f3n circular\ndespreciable y situados a una distancia de 1 metro uno de otro, en el vac\u00edo,\nproducir\u00eda entre estos conductores una fuerza igual a 2 \u00d7 10-7 newton por metro de\nlongitud. (9\u00aa CGPM, 1948)\nElkelvin(K)eslafracci\u00f3n1/273.16delatemperaturatermodin\u00e1micadelpunto\ntriple del agua. (13\u00aa CGPM, 1967)\nAdem\u00e1s de la temperatura termodin\u00e1mica (T), expresada en kelvins, se utiliza tambi\u00e9n la\ntemperaturaCelsius (t)definidaporlaecuaci\u00f3n:\nt=T-273.15\nParaexpresarlatemperaturaCelsiusseutilizalaunidadgradoCelsius,cuyos\u00edmboloes\u00b0C,\nqueesigualalaunidadkelvin;i.e.,gradoCelsiusesunnombreespecialempleadoenestecaso\nenlugardekelvin.Unintervaloounadiferenciadetemperaturaspuedeexpresarseindiferentemente\nenkelvinsoen gradosCelsius.\nEl mol (mol) es la cantidad de sustancia de un sistema que contiene tantas\nentidades elementales como \u00e1tomos hay en 0.012 kilogramos de carbono-12.\n(14\u00aa CGPM, 1971)\nCuando se emplee el mol, deben especificarse las entidades elementales, que pueden ser\n\u00e1tomos,mol\u00e9culas,iones,electronesuotraspart\u00edculasogruposespecificadosdetalespart\u00edculas.\nEn la definici\u00f3n del mol se entiende que se refiere a \u00e1tomos de carbono-12 no ligados, en\nreposoyensuestadofundamental.\nLa candela (cd) es la intensidad luminosa, en una direcci\u00f3n dada, de una fuente\nque emite una radiaci\u00f3n monocrom\u00e1tica de frecuencia 540 \u00d7 1012 hertz y cuya\nintensidad energ\u00e9tica en dicha direcci\u00f3n es 1/683 watt por estereorradi\u00e1n.\n(16\u00aa CGPM, 1979)\nLas definiciones de las unidades SI suplementarias son las siguientes:\nEl radi\u00e1n (rad) es el \u00e1ngulo plano comprendido entre dos radios de un c\u00edrculo\nque, sobre la circunferencia de dicho circulo, intercepta un arco de longitud igual a\nla del radio. (Norma Internacional ISO 31-I, diciembre de 1965.)\nEl estereorradi\u00e1n (sr) es el \u00e1ngulo s\u00f3lido que, teniendo su v\u00e9rtice en el centro\nde una esfera, intercepta sobre la superficie de dicha esfera un \u00e1rea igual a la de un\ncuadrado que tenga por lado el radio de la esfera. (Norma Internacional ISO 31-I,\ndiciembre de 1965.)1284 Ap\u00e9ndiceC.-Constantesf\u00edsicasytablas.\nTabla C.3. Unidades SI derivadas con nombres y s\u00edmbolos especiales.\nmagnitud nombre s\u00edmbolo definici\u00f3n\nfrecuencia hertz (hercio) Hz s-1\nfuerza newton (neutonio) N mkgs-2\npresi\u00f3n, tensi\u00f3n pascal (pascalio) Pa Nm-2\nenerg\u00eda, trabajo, cantidad\njoule (julio) J Nm\nde calor\npotencia, flujo radiante watt (vatio) W Js-1\ncantidad de electricidad,\ncoulomb (culombio) C As\ncarga el\u00e9ctrica\ntensi\u00f3n el\u00e9ctrica, poten-\nJC-1,\ncial el\u00e9ctrico, fuerza elec- volt (voltio) V\nWA-1\ntromotriz\nresistencia el\u00e9ctrica ohm (ohmio) \u03a9 VA-1\nconductancia el\u00e9ctrica siemens (siemensio) S, ( ) AV-1\ncapacidad el\u00e9ctrica farad (faradio) F CV-1\nflujo magn\u00e9tico, flujo de\nweber (w\u00e9ber, weberio) Wb Vs\ninducci\u00f3n magn\u00e9tica\ninducci\u00f3n magn\u00e9tica,\ndensidad de flujo mag- tesla T Wbm-2\nn\u00e9tico\ninductancia henry (henrio) H WbA-1\nflujo luminoso lumen lm cdsr\niluminancia lux lx lmm-2\nactividad radiactiva becquerel (becquerelio) Bq s-1\ndosis absorbida, energ\u00eda\ncomunicada m\u00e1sica, ker-\ngray Gy Jkg-1\nma, \u00edndice de dosis ab-\nsorbida (radiaciones)\ndosis equivalente, \u00edndice\nde dosis equivalente (ra- sievert Sv Jkg-1\ndiaciones)\nactividad catal\u00edtica katal kat s-1molAp\u00e9ndiceC.-Constantesf\u00edsicasytablas. 1285\nTabla C.4. Ejemplos de unidades SI derivadas expresadas a partir de las\nque tienen nombres especiales.\nmagnitud nombre s\u00edmbolo\nmomento de una fuerza metro newton mN\ntensi\u00f3n superficial newton por metro N/m\nviscosidad din\u00e1mica pascal segundo Pas\nenerg\u00eda vol\u00famica, densidad de\njoule por metro c\u00fabico J/m3\nenerg\u00eda\nenerg\u00eda m\u00e1sica, energ\u00eda espec\u00ed-\njoule por kg J/kg\nfica\nenerg\u00eda molar joule por mol J/mol\nentrop\u00eda, capacidad t\u00e9rmica joule por kelvin J/K\nentrop\u00eda espec\u00edfica, capacidad\njoule por kilogramo kelvin J/(kgK)\nt\u00e9rmica espec\u00edfica\nentrop\u00eda molar, calor molar joule por mol kelvin J/(molK)\nconductividad t\u00e9rmica watt por metro kelvin W/(mK)\nintensidad del campo el\u00e9ctrico volt por metro V/m\ndesplazamiento el\u00e9ctrico, densi-\ncoulomb por metro cuadrado C/m2\ndad superficial de carga\ndensidad de carga coulomb por metro c\u00fabico C/m3\npermitividad farad por metro F/m\npermeabilidad henry por metro H/m\nintensidad radiante watt por estereorradi\u00e1n W/sr1286 Ap\u00e9ndiceC.-Constantesf\u00edsicasytablas.\nTabla C.5. Nombres y s\u00edmbolos especiales de m\u00faltiplos y subm\u00faltiplos\ndecimales de unidades SI autorizadas.\nunidad\nmagnitud\nnombre s\u00edmbolo relaci\u00f3n\nvolumen litro l, L 1 L = 1 dm3\nmasa tonelada t 1 t = 103 kg\npresi\u00f3n, tensi\u00f3n bar bar 1 bar = 105 Pa\nTabla C.6. Unidades definidas a partir de las unidades SI, pero que no\nson m\u00faltiplos o subm\u00faltiplos decimales de dichas unidades.\nunidad\nmagnitud\nnombre s\u00edmbolo relaci\u00f3n\n\u00e1ngulo plano vuelta 1 vuelta = 2\u03c0 rad\n\u03c0\ngrado centesimal gon 1 gon rad\n200\n\u03c0\ngrado \u00b0 1\u00b0 rad\n180\n\u03c0\nminuto de \u00e1ngulo \u2019 1\u2032 rad\n10800\n\u03c0\nsegundo de \u00e1ngulo \" 1 rad\n648000\ntiempo minuto min 1 min = 60 s\nhora h 1 h = 3 600 s\nd\u00eda d 1 d = 86 400 sAp\u00e9ndiceC.-Constantesf\u00edsicasytablas. 1287\nTabla C.7. Unidades en uso con el SI cuyo valor en unidades SI se ha\nobtenido experimentalmente.\nunidad\nmagnitud\nnombre s\u00edmbolo valor en SI\nunidad de masa\nmasa u 1 u = 1.660 540 210-27 kg\nat\u00f3mica\nenerg\u00eda electr\u00f3nvolt eV 1 eV = 1.602 177 3310-19 J\nTabla C.8. Unidades admitidas \u00fanicamente en sectores de aplicaci\u00f3n\nespecializados.\nunidad\nmagnitud\nnombre s\u00edmbolo valor\npotencia de siste-\ndioptr\u00eda 1 dioptr\u00eda = 1 m-1\nmas \u00f3pticos\nmasa de piedras\nquilate m\u00e9trico 1 q.m. = 0.2 g\npreciosas\n\u00e1rea de superficies\n\u00e1rea a 1 a = 100 m2\nagrarias y de fincas\nmasa longitudinal\nde las fibras textiles tex tex 1 tex = 10-6 kgm-1\ny los hilos\npresi\u00f3n sangu\u00ednea y\nmil\u00edmetro de\nde otros fluidos mm Hg 1 mm Hg = 133.322 Pa\nmercurio\ncorporales\nsecci\u00f3n eficaz barn b 1 b = 10-28 m21288 Ap\u00e9ndiceC.-Constantesf\u00edsicasytablas.\nTabla C.9. Unidades no pertenecientes al SI que reciben nombres\nespeciales.\nAunque a\u00fan se utilizan en campos especializados de la Ciencia y la Tecnolog\u00eda, su\nuso debe ser abandonado. Las unidades cuyos nombres est\u00e1n resaltados en negrita\npertenecen al Sistema Cegesimal de Unidades (c.g.s), cuyas unidades mec\u00e1nicas\nb\u00e1sicas son el cent\u00edmetro (cm), el gramo (g) y el segundo (s).\ndefinici\u00f3n y/o\nmagnitud nombre s\u00edmbolo\nequivalencia\nlongitud fermi (fent\u00f3metro) fm 10-15 m\n\u00e5ngstr\u00f6m (\u00e1ngs-\n\u00c5 10-10 m\ntr\u00f6m, angstromio)\nunidadastron\u00f3mica a 1.49501011 m\na\u00f1o-luz 9.4611015 m\nparsec pc 3.083 741016 m\naceleraci\u00f3n gal, galileo Gal 1 cm/s-2 = 10-2 m/s-2\nfuerza dyne (dina) dyn 10-5 N\npresi\u00f3n 1.013 25105 Pa\natm\u00f3sfera atm\n760 mmHg\n0.967 841 atm\natm-t\u00e9cn,\natm\u00f3sfera t\u00e9cnica 0.980 665 bar\nkg/cm2\n9.806 65104 Pa\ntorr, torricelli, Torr,Tor 1.33322102 Pa\nmil\u00edmetrodemercurio mmHg 1/760 atm\nbaria dyn/cm2 10-1 Pa\nenerg\u00eda, trabajo, erg (ergio) erg 1 dyncm = 10-7 J\ncantidad de calor\ncalor\u00eda cal 4.184 J\npotencia caballovapor (DIN) C.V. 736 W\nviscosidad din\u00e1mica poise P 10-1 Pas\nviscosidad cin\u00e9tica stokes St 10-4 m2/s\nfluidez rhe rhe, P-1 10 ms/kg\nconcentraci\u00f3n molar \u00abmolar\u00bb M mol/l\natenuaci\u00f3n, nivel de\nbell (belio) B 10 dB\nintensidadAp\u00e9ndiceC.-Constantesf\u00edsicasytablas. 1289\ndefinici\u00f3n y/o\nmagnitud nombre s\u00edmbolo\nequivalencia\nnivel de sonoridad fon (fonio) fon\nsonoridad son son\nabsorci\u00f3n ac\u00fastica sabine Sabin 2.83210-2 m2\n9\ntemperatura grado Fahrenheit \u02daF t t 32\nF 5 C\ncantidad de elec- franklin\nFr 3.33610-10 C\ntricidad (franklinio)\nintensidad de co-\nbiot Bi 10 A\nrriente el\u00e9ctrica\nflujo magn\u00e9tico,\nmaxwell\nflujo de inducci\u00f3n Mx 10-8 Wb\n(maxvelio)\nmagn\u00e9tica\ninducci\u00f3n magn\u00e9ti-\nca, densidad de gauss (gausio) G 1 Mx/cm2 = 10-4 T\nflujo magn\u00e9tico\nfuerza magnetomo- gilbert (gilbertio) Gb 10/4\u03c0 A-vuelta\ntriz\nintensidad de cam- oersted\nOe 1000/4\u03c0 A-vuelta/m\npo magn\u00e9tico (oerstedio)\nactividad radiactiva curie (curio) Ci 3.71010 Bq\nexposici\u00f3n a radia- roentgen\nR 2.5810-4 C/kg\nci\u00f3n X y gamma (roentgenio)\ndosis absorbida,\nenerg\u00eda comunicada\nrad\nm\u00e1sica, kerma,\n[radiation rad 10-2 Gy\n\u00edndice de dosis ab-\nabsorbed dosis]\nsorbida (radiacio-\nnes)\ndosis equivalente,\nrem\n\u00edndice de dosis\n[radiation rem 10-2 Sv\nequivalente (ra-\nequivalent man]\ndiaciones)1290 Ap\u00e9ndiceC.-Constantesf\u00edsicasytablas.\n\u00a7C.10. Escritura de los s\u00edmbolos, nombres y n\u00fameros.-\n1.- Los s\u00edmbolos de las unidades SI, con raras excepciones como el caso del ohm\n(\u03a9), se expresan en caracteres romanos, en general con min\u00fasculas; sin embargo, si\ndichos s\u00edmbolos corresponden a unidades derivadas de nombres propios, su letra\ninicial es may\u00fascula.\nLos s\u00edmbolos no van seguidos de punto, ni toman la letra s para el plural.\n2.- El producto de los s\u00edmbolos de dos o m\u00e1s unidades se indica con preferencia por\nmedio de un punto, como s\u00edmbolo de multiplicaci\u00f3n. Dicho punto puede ser\nsuprimido en caso de que no sea posible la confusi\u00f3n con otro s\u00edmbolo de unidad.\nPor ejemplo, newton-metro se puede escribir N.m, Nm o Nm, nunca mN, que\nsignifica milinewton.\n3.- Cuando una unidad derivada sea el cociente de otras dos, se puede utilizar la\nbarra oblicua (/), la barra horizontal o bien potencias negativas, para evitar el\ndenominador:\nm\nm/s , , m s 1\ns\nNo se debe introducir jam\u00e1s en una misma l\u00ednea m\u00e1s de una barra oblicua, a\nmenos que se a\u00f1adan par\u00e9ntesis, a fin de evitar toda ambig\u00fcedad. En los casos\ncomplejos pueden utilizarse par\u00e9ntesis o potencias negativas. As\u00ed, se escribir\u00e1:\nm/s2 o bien ms-2, pero nunca m/s/s\n(Pas)/(kg/m3) o bien Pam3kg-1s, pero nunca Pas/kg/m3\n4.-Losnombresdelasunidadesdebidosanombrespropiosdecient\u00edficoseminentes\ndeben escribirse con id\u00e9ntica ortograf\u00eda que el nombre de estos, pero con min\u00fascula\ninicial.\nNo obstante lo anterior, ser\u00e1n igualmente aceptables sus denominaciones\ncastellanizadasdeusohabitual,siemprequeest\u00e9nreconocidasporlaRealAcademia\nEspa\u00f1ola (ejemplos: amperio, culombio, faradio, hercio, julio, ohmio, voltio, watio,\nweberio,...).\nLos nombres de las unidades toman una s en el plural (ejemplo, 10 newtons),\nsalvo que terminen en s, x o z.\n5.- En los n\u00fameros, la coma se utiliza solamente para separar la parte entera de la\npartedecimal.Parafacilitarlalectura,losn\u00famerospueden estardivididosengrupos\nde tres cifras (a partir de la coma, si hay alguna); estos grupos no se separan jam\u00e1s\npor puntos ni por comas. La separaci\u00f3n en grupos no se utiliza para los n\u00fameros de\ncuatro cifras que designan un a\u00f1o.Ap\u00e9ndiceC.-Constantesf\u00edsicasytablas. 1291\n\u00a7C.11. M\u00faltiplos y subm\u00faltiplos decimales.-\n1.- Los m\u00faltiplo y subm\u00faltiplos decimales de las unidades SI se forman por medio\nde prefijos que designan los factores num\u00e9ricos decimales por los que se multiplica\nla unidad. Esos prefijos son los que figuran en la Tabla C.12.\nEl s\u00edmbolo de la unidad sigue al s\u00edmbolo del prefijo, sin espacio.\nTabla C.12. M\u00faltiplos y subm\u00faltiplos decimales de la unidad.\nfactor prefijo s\u00edmbolo factor prefijo s\u00edmbolo\n101 deca d 10-1 deci d\n102 hecto h 10-2 centi c\n103 kilo k 10-3 mili m\n106 mega M 10-6 micro \u00b5\n109 giga G 10-9 nano n\n1012 tera T 10-12 pico p\n1015 peta P 10-15 femto f\n1018 exa E 10-18 atto a\n1021 zetta Z 10-21 zepto z\n1024 yotta Y 10-24 yocto y\n2.-Noseadmitenlosprefijoscompuestos,formadosporlayuxtaposici\u00f3ndevarios\nprefijos SI. Ejemplos:\nvalor incorrecto correcto nombre\n10-9 s m\u00b5s ns nanosegundo\n10-12 F \u00b5\u00b5F pF picofaradio\n10-6 kg \u00b5kg mg miligramo\n109 W kMW GW gigavatio\nEntre las unidades b\u00e1sicas SI, la unidad de masa es la \u00fanica cuyo nombre, por\nrazones hist\u00f3ricas, contiene un prefijo. Los nombres de los m\u00faltiplos y subm\u00faltiplos\nde la unidad de masa se forman anteponiendo prefijos a la palabra \u00abgramo\u00bb y sus\ns\u00edmbolos al s\u00edmbolo \u00abg\u00bb.\nPor ejemplo:\n10-6 kg = 1 mg (miligramo); pero no 1 \u00b5kg (microkilogramo)1292 Ap\u00e9ndiceC.-Constantesf\u00edsicasytablas.\n2.- El s\u00edmbolo de un prefijo se considera combinado con el s\u00edmbolo de la unidad a\nla cual est\u00e1 directamente ligado, sin espacio intermedio, formando as\u00ed el s\u00edmbolo de\nuna nueva unidad, que puede estar afectada de un exponente positivo o negativo, y\nque se puede combinar con otros s\u00edmbolos de unidades para formar s\u00edmbolos de\nunidades compuestas.\nEjemplos:\n1 cm3 = (10-2 m)3 = 10-6 m3\n1 \u00b5s-1 = (10-6 s)-1 = 106 s-1\n1 mm2/s = (10-3 m)2/s = 10-6 m2/s\n1 kV/cm = (103 V)/(10-2 m) = 105 V/m\nObs\u00e9rvese que:\ncm3 significa siempre (0.01 m)3 = 10-6 m3, pero nunca 0.01 m3.\nms-1 significa siempre (10-3 s)-1 = 103 s-1, pero nunca 10-3 s-1.Ap\u00e9ndiceC.-Constantesf\u00edsicasytablas. 1293\nTabla C.13. Alfabeto griego.\nConformealDiccionariodelaLenguaEspa\u00f1ola(21\u00aaedici\u00f3n,1992),editadoporla\nRealAcademiaEspa\u00f1ola(D.R.A.E.).\ns\u00edmbolo griego nombre griego nombre espa\u00f1ol equivalencia\n\u0391 \u03b1 \u03b1\u03bb\u03d5\u03b1 alfa a\n\u0392 \u03b2, \u03b2\u03b7\u03c4\u03b1 beta b\n\u0393 \u03b3 \u03b3\u03b1\u00b5\u00b5\u03b1 gamma g\n\u0394 \u03b4 \u03b4\u03b5\u03bb\u03c4\u03b1 delta d\n\u0395 \u03b5, \u03b5 \u03c8\u03b9\u03bb\u03bf\u03bd \u00e9psilon e breve\n\u0396 \u03b6 \u03b6\u03b7\u03c4\u03b1 zeta z\n\u0397 \u03b7 \u03b7\u03c4\u03b1 eta e larga\n\u0398 \u03b8, \u03d1 \u03b8\u03b7\u03c4\u03b1 theta th (t)\n\u0399 \u03b9 \u03b9\u03c9\u03c4\u03b1 iota i\n\u039a \u03ba, \u03ba\u03b1\u03c0\u03c0\u03b1 kappa k (c)\n\u039b \u03bb \u03bb\u03b1\u00b5\u03b2\u03b4\u03b1 lambda l\n\u039c \u00b5 \u00b5\u03c5 my m\n\u039d \u03bd \u03bd\u03c5 ny n\n\u039e \u03be \u03be\u03b9 xi x\n\u039f \u03bf \u03bf \u00b5\u03b9\u03ba\u03c1\u03bf\u03bd \u00f3micron o breve\n\u03a0 \u03c0, \u03c0\u03b9 pi p\n\u03a1 \u03c1, \u03c1\u03c9 rho r\n\u03a3 \u03c3, \u03c2 \u03c3\u03b9\u03b3\u00b5\u03b1 sigma s\n\u03a4 \u03c4 \u03c4\u03b1\u03c5 tau t\n\u03a5, \u03d2 \u03c5 \u03c5 \u03c8\u03b9\u03bb\u03bf\u03bd \u00edpsilon y\n\u03a6 \u03c6, \u03d5 \u03d5\u03b9 phi (fi) ph (f)\n\u03a7 \u03c7 \u03c7\u03b9 ji ch (c, qu)\n\u03a8 \u03c8 \u03c8\u03b9 psi ps\n\u03a9 \u03c9, \u03d6 \u03c9 \u00b5\u03b5\u03b3\u03b1 omega o larga1294 Ap\u00e9ndiceC.-Constantesf\u00edsicasytablas.\nTabla C.14. Constantes f\u00edsicas fundamentales.\nmagnitud s\u00edmbolo valor\ncarga el\u00e9ctrica elemental e 1.602 177 3310-19 C\nconstante de Boltzmann k=R/N 1.380 66210-23 J/K\nA\nconstante de Coulomb 1/4\u03c0 8.987 552109 Nm2/C2\n0\nconstante de estructura fina \u03b1 7.297 35010-3 \u2248 1/137\nconstante de Faraday N e 9.648 384104 C/mol\nA\nconstante de gravitaci\u00f3n G 6.672 010-11 Nm2/kg2\n8.314 409 J/molK\nconstante de los gases R 0.082 057 atml/molK\n1.987 cal/molK\nh 6.626 17610-34 Js\nconstante de Planck\n=h/2\u03c0 1.054 58910-34 Js\nconstante de Rydberg R 1.097 324107 m-1\n\u221e\nconstante de Stefan-Boltzmann \u03c3 5.670 31610-8 W/m2K4\nconstante de Wien \u03bb T 2.8810-3 mK\nm\nlongitud de onda Compton ...\n... del electr\u00f3n \u03bb 2.426 34610-12 m\nC,e\n... del prot\u00f3n \u03bb 1.321 41010-15 m\nC,p\nmagnet\u00f3n de Bohr \u00b5 9.274 15010-24 J/T\nB\nmagnet\u00f3n nuclear \u00b5 5.050 78610-27 J/T\nn\n0.910 939 610-30 kg\nmasa en reposo del electr\u00f3n m\ne 5.485 802 610-4 u\n1.674 928 810-27 kg\nmasa en reposo del neutr\u00f3n m\nn 1.008 665 012 u\n1.672 623 110-27 kg\nmasa en reposo del prot\u00f3n m\np 1.007 276 470 u\nn\u00famero de Avogadro N 6.022 0451023 mol-1\nA\nn\u00famero de Loschmidt L 2.686 7541025 m-3\npermeabilidad del vac\u00edo \u00b5 4\u03c010-7 H/m\n0Ap\u00e9ndiceC.-Constantesf\u00edsicasytablas. 1295\nmagnitud s\u00edmbolo valor\npermitividad del vac\u00edo 8.854 18810-12 F/m\n0\npunto triple del agua T 273.16 K\n0\nradio cl\u00e1sico del electr\u00f3n r 2.818 06410-15 m\n0\nradio de Bohr a 5.292 00810-11 m\n0\nraz\u00f3n e/m para el electr\u00f3n e/m 1.758 8181011 C/kg\ne\nraz\u00f3n cu\u00e1ntica para la carga h/e 4.135 73210-15 Js/C\nvelocidad de la luz en el vac\u00edo c 2.997 924 58108 m/s\nvolumen molar del gas ideal (CN)\nv 22.413 83 l/mol\n(T =273.15 K, p =1 atm) 0\n0 0\nTabla C.15. Algunos datos f\u00edsicos de inter\u00e9s general.\nmagnitud s\u00edmbolo valor\naceleraci\u00f3n gravitatoria normal g 9.806 65 m/s2\nvelocidad del sonido en el aire (CN) c 340 m/s\npeso molecular del aire M 28.996\ndensidad del aire (20\u00b0C) \u03c1 1.29 kg/m3\naire\ndensidad del agua (4\u00b0C) \u03c1 1000 kg/m3\nagua\npresi\u00f3n y temperatura (CN) 1.013 250105 Pa, 273.15 K\ncalor fusi\u00f3n del agua L 79.7 cal/g\nf\ncalor vaporizaci\u00f3n del agua L 540 cal/g\nv\nequivalente mec\u00e1nico de la calor\u00eda J 1 cal = 4.184 J\nequivalente energ\u00e9tico de la masa 1 u = 931.494 3 MeV\n(E=mc2) 1 kg = 8.987 5511016 J\n= 5.609 5861035 eV\nmasa del Sol M 1.9911030 kg\nS\nmasa de la Tierra M 5.9791024 kg\nT\nradio de la Tierra R 6.371106 m\nT\nradio de la \u00f3rbita de la Tierra 1.501011 m\nperiodo de revoluci\u00f3n de la Tierra 3.155 815107 s1296 Ap\u00e9ndiceC.-Constantesf\u00edsicasytablas.\nmagnitud s\u00edmbolo valor\nperiodo de rotaci\u00f3n de la Tierra 8.616 406104 s (d\u00edasid\u00e9reo)\nmasa de la Luna M 7.3541022 kg\nL\nradio de la Luna R 1.738 3106 m\nL\nradio de la \u00f3rbita de la Luna 3.84108 m\nperiodo de revoluci\u00f3n y de rotaci\u00f3n 2.360 55106 s\nde la Luna\nTabla C.16. Datos acerca de los planetas.\nMasa Radiomedio Periodode Densidad Gravedad\nPlaneta rotaci\u00f3n\n(Tierra=1) (Tierra=1) (agua=1) (Tierra=1)\n(d\u00edassiderales)\nMercurio 0.0532 0.3819 58.815 1 5.72 0.39\nVenus 0.8167 0.9500 R224.588 5.12 0.90\nTierra 1.0000 1.0000 1.000 5.51 1.00\nMarte 0.10734 0.5306 1.028 766 3.90 0.40\nJ\u00fapiter 317.929 10.949 0.411 192 1.25 2.56\nSaturno 95.0661 9.1377 0.427 556 0.61 1.06\nUrano 14.521 3.6837 R0.450 397 1.35 0.96\nNeptuno 17.177 3.5654 0.657 490 2.20 1.39\nPlut\u00f3n 0.1806 0.8946 6.410 1 ? 0.23\nsemiejemayor Periodode N\u00famero\nexcentricidad inclinaci\u00f3n\nPlaneta dela\u00f3rbita revoluci\u00f3n de\ndela\u00f3rbita dela\u00f3rbita\n(Tierra=1) (a\u00f1ossiderales) sat\u00e9lites\nMercurio 0.387 0.2056 0.240 899 7.003\u00b0 0\nVenus 0.723 0.0068 0.615 185 3.394\u00b0 0\nTierra 1.000 0.0167 1.000 0.000\u00b0 1\nMarte 1.523 0.0934 1.880 82 1.850\u00b0 2\nJ\u00fapiter 5.202 0.0484 11.861 3 1.309\u00b0 12\nSaturno 9.554 0.0543 29.456 8 2.493\u00b0 10\nUrano 19.218 0.0460 84.008 1 0.773\u00b0 5\nNeptuno 30.109 0.0082 164.784 1.779\u00b0 2\nPlut\u00f3n 39.517 0.2481 248.35 17.146\u00b0 ?Ap\u00e9ndiceC.-Constantesf\u00edsicasytablas. 1297\nTabla C.17. Algunas unidades del Sistema Anglosaj\u00f3n.\nmagnitud nombre s\u00edmbolo equivalencia\nlongitud inch (pulgada) in, \" 2.540 cm\nfoot (pie) =12in ft 30.48 cm\nyard (yarda) =3ft yd 0.914 4 m\nmile (milla) =1760yd=5280ft 1 609.344 m\nmilla n\u00e1utica (int.) 1 852 m\nvelocidad 1 milla n\u00e1ut./h\nknot (nudo) [n\u00e1ut. int.]\n1.852 km/h\nvolumen gal\u00f3n (ingl\u00e9s) 4.536 l\ngal\u00f3n (USA) 3.785 l\nmasa pound (libra) lb 0.453 592 37 kg\nslug slug 14.593 9 kg\nton (brit\u00e1nica) ton 1 016 kg\nton (USA) ton 907.2 kg\nfuerza pound wt (librafuerza) lb wt 4.448 221 N\n0.138 255 N\npoundal =1/32.1740poundwt\n0.014 098 1 kg\nenerg\u00eda, foot pound (pie libra) ftlb 1.355 82 J\ntrabajo\nfoot poundal 0.042 140 11 J\n1 Btu = 252 cal\nbritish thermal unit Btu\n1 Btu = 1 055 J\npotencia foot pound per second\nftlb/s 1.355 82 W\n(pielibraporsegundo)\nhorse power =550ftlb/s HP 745.700 W\npresi\u00f3n pound wt per sq. inch lb/in2,\n6 894.756 Pa\n(libra-fuerzaporpulgadacuadrado) psi\npound wt per sq. foot\nlb/ft2 47.880 252 Pa\n(libra-fuerzaporpiecuadrado)1298 Ap\u00e9ndiceC.-Constantesf\u00edsicasytablas.",
+    "tables": [
+        {
+            "page": 2,
+            "tables": [
+                [
+                    [
+                        "magnitud",
+                        "unidad",
+                        ""
+                    ],
+                    [
+                        null,
+                        "nombre",
+                        "s\u00edmbolo"
+                    ],
+                    [
+                        "unidades b\u00e1sicas",
+                        null,
+                        null
+                    ],
+                    [
+                        "longitud metro m\nmasa kilogramo kg\ntiempo segundo s\nintensidad de corriente el\u00e9ctrica ampere (amperio) A\ntemperatura termodin\u00e1mica kelvin (kelvinio) K\ncantidad de sustancia mol mol\nintensidad luminosa candela cd",
+                        null,
+                        null
+                    ],
+                    [
+                        "unidades suplementarias",
+                        null,
+                        null
+                    ],
+                    [
+                        "\u00e1ngulo plano radi\u00e1n rad\n\u00e1ngulo s\u00f3lido estereorradi\u00e1n sr",
+                        null,
+                        null
+                    ]
+                ]
+            ]
+        },
+        {
+            "page": 4,
+            "tables": [
+                [
+                    [
+                        "magnitud",
+                        "nombre",
+                        "s\u00edmbolo",
+                        "definici\u00f3n"
+                    ],
+                    [
+                        "frecuencia",
+                        "hertz (hercio)",
+                        "Hz",
+                        "s-1"
+                    ],
+                    [
+                        "fuerza",
+                        "newton (neutonio)",
+                        "N",
+                        "mkgs-2"
+                    ],
+                    [
+                        "presi\u00f3n, tensi\u00f3n",
+                        "pascal (pascalio)",
+                        "Pa",
+                        "Nm-2"
+                    ],
+                    [
+                        "energ\u00eda, trabajo, cantidad\nde calor",
+                        "joule (julio)",
+                        "J",
+                        "Nm"
+                    ],
+                    [
+                        "potencia, flujo radiante",
+                        "watt (vatio)",
+                        "W",
+                        "Js-1"
+                    ],
+                    [
+                        "cantidad de electricidad,\ncarga el\u00e9ctrica",
+                        "coulomb (culombio)",
+                        "C",
+                        "As"
+                    ],
+                    [
+                        "tensi\u00f3n el\u00e9ctrica, poten-\ncial el\u00e9ctrico, fuerza elec-\ntromotriz",
+                        "volt (voltio)",
+                        "V",
+                        "JC-1,\nWA-1"
+                    ],
+                    [
+                        "resistencia el\u00e9ctrica",
+                        "ohm (ohmio)",
+                        "\u03a9",
+                        "VA-1"
+                    ],
+                    [
+                        "conductancia el\u00e9ctrica",
+                        "siemens (siemensio)",
+                        "S, ( )",
+                        "AV-1"
+                    ],
+                    [
+                        "capacidad el\u00e9ctrica",
+                        "farad (faradio)",
+                        "F",
+                        "CV-1"
+                    ],
+                    [
+                        "flujo magn\u00e9tico, flujo de\ninducci\u00f3n magn\u00e9tica",
+                        "weber (w\u00e9ber, weberio)",
+                        "Wb",
+                        "Vs"
+                    ],
+                    [
+                        "inducci\u00f3n magn\u00e9tica,\ndensidad de flujo mag-\nn\u00e9tico",
+                        "tesla",
+                        "T",
+                        "Wbm-2"
+                    ],
+                    [
+                        "inductancia",
+                        "henry (henrio)",
+                        "H",
+                        "WbA-1"
+                    ],
+                    [
+                        "flujo luminoso",
+                        "lumen",
+                        "lm",
+                        "cdsr"
+                    ],
+                    [
+                        "iluminancia",
+                        "lux",
+                        "lx",
+                        "lmm-2"
+                    ],
+                    [
+                        "actividad radiactiva",
+                        "becquerel (becquerelio)",
+                        "Bq",
+                        "s-1"
+                    ],
+                    [
+                        "dosis absorbida, energ\u00eda\ncomunicada m\u00e1sica, ker-\nma, \u00edndice de dosis ab-\nsorbida (radiaciones)",
+                        "gray",
+                        "Gy",
+                        "Jkg-1"
+                    ],
+                    [
+                        "dosis equivalente, \u00edndice\nde dosis equivalente (ra-\ndiaciones)",
+                        "sievert",
+                        "Sv",
+                        "Jkg-1"
+                    ],
+                    [
+                        "actividad catal\u00edtica",
+                        "katal",
+                        "kat",
+                        "s-1mol"
+                    ]
+                ]
+            ]
+        },
+        {
+            "page": 5,
+            "tables": [
+                [
+                    [
+                        "magnitud",
+                        "nombre",
+                        "s\u00edmbolo"
+                    ],
+                    [
+                        "momento de una fuerza",
+                        "metro newton",
+                        "mN"
+                    ],
+                    [
+                        "tensi\u00f3n superficial",
+                        "newton por metro",
+                        "N/m"
+                    ],
+                    [
+                        "viscosidad din\u00e1mica",
+                        "pascal segundo",
+                        "Pas"
+                    ],
+                    [
+                        "energ\u00eda vol\u00famica, densidad de\nenerg\u00eda",
+                        "joule por metro c\u00fabico",
+                        "J/m3"
+                    ],
+                    [
+                        "energ\u00eda m\u00e1sica, energ\u00eda espec\u00ed-\nfica",
+                        "joule por kg",
+                        "J/kg"
+                    ],
+                    [
+                        "energ\u00eda molar",
+                        "joule por mol",
+                        "J/mol"
+                    ],
+                    [
+                        "entrop\u00eda, capacidad t\u00e9rmica",
+                        "joule por kelvin",
+                        "J/K"
+                    ],
+                    [
+                        "entrop\u00eda espec\u00edfica, capacidad\nt\u00e9rmica espec\u00edfica",
+                        "joule por kilogramo kelvin",
+                        "J/(kgK)"
+                    ],
+                    [
+                        "entrop\u00eda molar, calor molar",
+                        "joule por mol kelvin",
+                        "J/(molK)"
+                    ],
+                    [
+                        "conductividad t\u00e9rmica",
+                        "watt por metro kelvin",
+                        "W/(mK)"
+                    ],
+                    [
+                        "intensidad del campo el\u00e9ctrico",
+                        "volt por metro",
+                        "V/m"
+                    ],
+                    [
+                        "desplazamiento el\u00e9ctrico, densi-\ndad superficial de carga",
+                        "coulomb por metro cuadrado",
+                        "C/m2"
+                    ],
+                    [
+                        "densidad de carga",
+                        "coulomb por metro c\u00fabico",
+                        "C/m3"
+                    ],
+                    [
+                        "permitividad",
+                        "farad por metro",
+                        "F/m"
+                    ],
+                    [
+                        "permeabilidad",
+                        "henry por metro",
+                        "H/m"
+                    ],
+                    [
+                        "intensidad radiante",
+                        "watt por estereorradi\u00e1n",
+                        "W/sr"
+                    ]
+                ]
+            ]
+        },
+        {
+            "page": 6,
+            "tables": [
+                [
+                    [
+                        "magnitud",
+                        "",
+                        "unida",
+                        "d"
+                    ],
+                    [
+                        null,
+                        "nombre",
+                        "s\u00edmbolo",
+                        "relaci\u00f3n"
+                    ],
+                    [
+                        "volumen",
+                        "litro",
+                        "l, L",
+                        "1 L = 1 dm3"
+                    ],
+                    [
+                        "masa",
+                        "tonelada",
+                        "t",
+                        "1 t = 103 kg"
+                    ],
+                    [
+                        "presi\u00f3n, tensi\u00f3n",
+                        "bar",
+                        "bar",
+                        "1 bar = 105 Pa"
+                    ]
+                ],
+                [
+                    [
+                        "magnitud",
+                        "",
+                        "unidad",
+                        ""
+                    ],
+                    [
+                        null,
+                        "nombre",
+                        "s\u00edmbolo",
+                        "relaci\u00f3n"
+                    ],
+                    [
+                        "\u00e1ngulo plano",
+                        "vuelta",
+                        "",
+                        "1 vuelta = 2\u03c0 rad"
+                    ],
+                    [
+                        null,
+                        "grado centesimal",
+                        "gon",
+                        "\u03c0\n1 gon rad\n200"
+                    ],
+                    [
+                        null,
+                        "grado",
+                        "\u00b0",
+                        "\u03c0\n1\u00b0 rad\n180"
+                    ],
+                    [
+                        null,
+                        "minuto de \u00e1ngulo",
+                        "\u2019",
+                        "\u03c0\n1\u2032 rad\n10800"
+                    ],
+                    [
+                        null,
+                        "segundo de \u00e1ngulo",
+                        "\"",
+                        "\u03c0\n1 rad\n648000"
+                    ],
+                    [
+                        "tiempo",
+                        "minuto",
+                        "min",
+                        "1 min = 60 s"
+                    ],
+                    [
+                        null,
+                        "hora",
+                        "h",
+                        "1 h = 3 600 s"
+                    ],
+                    [
+                        null,
+                        "d\u00eda",
+                        "d",
+                        "1 d = 86 400 s"
+                    ]
+                ]
+            ]
+        },
+        {
+            "page": 7,
+            "tables": [
+                [
+                    [
+                        "magnitud",
+                        "",
+                        "un",
+                        "idad"
+                    ],
+                    [
+                        null,
+                        "nombre",
+                        "s\u00edmbolo",
+                        "valor en SI"
+                    ],
+                    [
+                        "masa",
+                        "unidad de masa\nat\u00f3mica",
+                        "u",
+                        "1 u = 1.660 540 210-27 kg"
+                    ],
+                    [
+                        "energ\u00eda",
+                        "electr\u00f3nvolt",
+                        "eV",
+                        "1 eV = 1.602 177 3310-19 J"
+                    ]
+                ],
+                [
+                    [
+                        "magnitud",
+                        "",
+                        "unid",
+                        "ad"
+                    ],
+                    [
+                        null,
+                        "nombre",
+                        "s\u00edmbolo",
+                        "valor"
+                    ],
+                    [
+                        "potencia de siste-\nmas \u00f3pticos",
+                        "dioptr\u00eda",
+                        "",
+                        "1 dioptr\u00eda = 1 m-1"
+                    ],
+                    [
+                        "masa de piedras\npreciosas",
+                        "quilate m\u00e9trico",
+                        "",
+                        "1 q.m. = 0.2 g"
+                    ],
+                    [
+                        "\u00e1rea de superficies\nagrarias y de fincas",
+                        "\u00e1rea",
+                        "a",
+                        "1 a = 100 m2"
+                    ],
+                    [
+                        "masa longitudinal\nde las fibras textiles\ny los hilos",
+                        "tex",
+                        "tex",
+                        "1 tex = 10-6 kgm-1"
+                    ],
+                    [
+                        "presi\u00f3n sangu\u00ednea y\nde otros fluidos\ncorporales",
+                        "mil\u00edmetro de\nmercurio",
+                        "mm Hg",
+                        "1 mm Hg = 133.322 Pa"
+                    ],
+                    [
+                        "secci\u00f3n eficaz",
+                        "barn",
+                        "b",
+                        "1 b = 10-28 m2"
+                    ]
+                ]
+            ]
+        },
+        {
+            "page": 8,
+            "tables": [
+                [
+                    [
+                        "magnitud",
+                        "nombre",
+                        "s\u00edmbolo",
+                        "definici\u00f3n y/o\nequivalencia"
+                    ],
+                    [
+                        "longitud",
+                        "fermi (fent\u00f3metro)",
+                        "fm",
+                        "10-15 m"
+                    ],
+                    [
+                        null,
+                        "\u00e5ngstr\u00f6m (\u00e1ngs-\ntr\u00f6m, angstromio)",
+                        "\u00c5",
+                        "10-10 m"
+                    ],
+                    [
+                        null,
+                        "unidadastron\u00f3mica",
+                        "a",
+                        "1.49501011 m"
+                    ],
+                    [
+                        null,
+                        "a\u00f1o-luz",
+                        "",
+                        "9.4611015 m"
+                    ],
+                    [
+                        null,
+                        "parsec",
+                        "pc",
+                        "3.083 741016 m"
+                    ],
+                    [
+                        "aceleraci\u00f3n",
+                        "gal, galileo",
+                        "Gal",
+                        "1 cm/s-2 = 10-2 m/s-2"
+                    ],
+                    [
+                        "fuerza",
+                        "dyne (dina)",
+                        "dyn",
+                        "10-5 N"
+                    ],
+                    [
+                        "presi\u00f3n",
+                        "atm\u00f3sfera",
+                        "atm",
+                        "1.013 25105 Pa\n760 mmHg"
+                    ],
+                    [
+                        null,
+                        "atm\u00f3sfera t\u00e9cnica",
+                        "atm-t\u00e9cn,\nkg/cm2",
+                        "0.967 841 atm\n0.980 665 bar\n9.806 65104 Pa"
+                    ],
+                    [
+                        null,
+                        "torr, torricelli,\nmil\u00edmetrodemercurio",
+                        "Torr,Tor\nmmHg",
+                        "1.33322102 Pa\n1/760 atm"
+                    ],
+                    [
+                        null,
+                        "baria",
+                        "dyn/cm2",
+                        "10-1 Pa"
+                    ],
+                    [
+                        "energ\u00eda, trabajo,\ncantidad de calor",
+                        "erg (ergio)",
+                        "erg",
+                        "1 dyncm = 10-7 J"
+                    ],
+                    [
+                        null,
+                        "calor\u00eda",
+                        "cal",
+                        "4.184 J"
+                    ],
+                    [
+                        "potencia",
+                        "caballovapor (DIN)",
+                        "C.V.",
+                        "736 W"
+                    ],
+                    [
+                        "viscosidad din\u00e1mica",
+                        "poise",
+                        "P",
+                        "10-1 Pas"
+                    ],
+                    [
+                        "viscosidad cin\u00e9tica",
+                        "stokes",
+                        "St",
+                        "10-4 m2/s"
+                    ],
+                    [
+                        "fluidez",
+                        "rhe",
+                        "rhe, P-1",
+                        "10 ms/kg"
+                    ],
+                    [
+                        "concentraci\u00f3n molar",
+                        "\u00abmolar\u00bb",
+                        "M",
+                        "mol/l"
+                    ],
+                    [
+                        "atenuaci\u00f3n, nivel de\nintensidad",
+                        "bell (belio)",
+                        "B",
+                        "10 dB"
+                    ]
+                ]
+            ]
+        },
+        {
+            "page": 9,
+            "tables": [
+                [
+                    [
+                        "magnitud",
+                        "nombre",
+                        "s\u00edmbolo",
+                        "definici\u00f3n y/o\nequivalencia"
+                    ],
+                    [
+                        "nivel de sonoridad",
+                        "fon (fonio)",
+                        "fon",
+                        ""
+                    ],
+                    [
+                        "sonoridad",
+                        "son",
+                        "son",
+                        ""
+                    ],
+                    [
+                        "absorci\u00f3n ac\u00fastica",
+                        "sabine",
+                        "Sabin",
+                        "2.83210-2 m2"
+                    ],
+                    [
+                        "temperatura",
+                        "grado Fahrenheit",
+                        "\u02daF",
+                        "9\nt t 32\nF 5 C"
+                    ],
+                    [
+                        "cantidad de elec-\ntricidad",
+                        "franklin\n(franklinio)",
+                        "Fr",
+                        "3.33610-10 C"
+                    ],
+                    [
+                        "intensidad de co-\nrriente el\u00e9ctrica",
+                        "biot",
+                        "Bi",
+                        "10 A"
+                    ],
+                    [
+                        "flujo magn\u00e9tico,\nflujo de inducci\u00f3n\nmagn\u00e9tica",
+                        "maxwell\n(maxvelio)",
+                        "Mx",
+                        "10-8 Wb"
+                    ],
+                    [
+                        "inducci\u00f3n magn\u00e9ti-\nca, densidad de\nflujo magn\u00e9tico",
+                        "gauss (gausio)",
+                        "G",
+                        "1 Mx/cm2 = 10-4 T"
+                    ],
+                    [
+                        "fuerza magnetomo-\ntriz",
+                        "gilbert (gilbertio)",
+                        "Gb",
+                        "10/4\u03c0 A-vuelta"
+                    ],
+                    [
+                        "intensidad de cam-\npo magn\u00e9tico",
+                        "oersted\n(oerstedio)",
+                        "Oe",
+                        "1000/4\u03c0 A-vuelta/m"
+                    ],
+                    [
+                        "actividad radiactiva",
+                        "curie (curio)",
+                        "Ci",
+                        "3.71010 Bq"
+                    ],
+                    [
+                        "exposici\u00f3n a radia-\nci\u00f3n X y gamma",
+                        "roentgen\n(roentgenio)",
+                        "R",
+                        "2.5810-4 C/kg"
+                    ],
+                    [
+                        "dosis absorbida,\nenerg\u00eda comunicada\nm\u00e1sica, kerma,\n\u00edndice de dosis ab-\nsorbida (radiacio-\nnes)",
+                        "rad\n[radiation\nabsorbed dosis]",
+                        "rad",
+                        "10-2 Gy"
+                    ],
+                    [
+                        "dosis equivalente,\n\u00edndice de dosis\nequivalente (ra-\ndiaciones)",
+                        "rem\n[radiation\nequivalent man]",
+                        "rem",
+                        "10-2 Sv"
+                    ]
+                ]
+            ]
+        },
+        {
+            "page": 11,
+            "tables": [
+                [
+                    [
+                        "factor",
+                        "prefijo",
+                        "s\u00edmbolo",
+                        "factor",
+                        "prefijo",
+                        "s\u00edmbolo"
+                    ],
+                    [
+                        "101",
+                        "deca",
+                        "d",
+                        "10-1",
+                        "deci",
+                        "d"
+                    ],
+                    [
+                        "102",
+                        "hecto",
+                        "h",
+                        "10-2",
+                        "centi",
+                        "c"
+                    ],
+                    [
+                        "103",
+                        "kilo",
+                        "k",
+                        "10-3",
+                        "mili",
+                        "m"
+                    ],
+                    [
+                        "106",
+                        "mega",
+                        "M",
+                        "10-6",
+                        "micro",
+                        "\u00b5"
+                    ],
+                    [
+                        "109",
+                        "giga",
+                        "G",
+                        "10-9",
+                        "nano",
+                        "n"
+                    ],
+                    [
+                        "1012",
+                        "tera",
+                        "T",
+                        "10-12",
+                        "pico",
+                        "p"
+                    ],
+                    [
+                        "1015",
+                        "peta",
+                        "P",
+                        "10-15",
+                        "femto",
+                        "f"
+                    ],
+                    [
+                        "1018",
+                        "exa",
+                        "E",
+                        "10-18",
+                        "atto",
+                        "a"
+                    ],
+                    [
+                        "1021",
+                        "zetta",
+                        "Z",
+                        "10-21",
+                        "zepto",
+                        "z"
+                    ],
+                    [
+                        "1024",
+                        "yotta",
+                        "Y",
+                        "10-24",
+                        "yocto",
+                        "y"
+                    ]
+                ]
+            ]
+        },
+        {
+            "page": 13,
+            "tables": [
+                [
+                    [
+                        "s\u00edmbolo",
+                        "griego",
+                        "nombre griego",
+                        "nombre espa\u00f1ol",
+                        "equivalencia"
+                    ],
+                    [
+                        "\u0391 \u03b1 \u03b1\u03bb\u03d5\u03b1 alfa a\n\u0392 \u03b2, \u03b2\u03b7\u03c4\u03b1 beta b\n\u0393 \u03b3 \u03b3\u03b1\u00b5\u00b5\u03b1 gamma g\n\u0394 \u03b4 \u03b4\u03b5\u03bb\u03c4\u03b1 delta d\n\u0395 \u03b5, \u03b5 \u03c8\u03b9\u03bb\u03bf\u03bd \u00e9psilon e breve\n\u0396 \u03b6 \u03b6\u03b7\u03c4\u03b1 zeta z\n\u0397 \u03b7 \u03b7\u03c4\u03b1 eta e larga\n\u0398 \u03b8, \u03d1 \u03b8\u03b7\u03c4\u03b1 theta th (t)\n\u0399 \u03b9 \u03b9\u03c9\u03c4\u03b1 iota i\n\u039a \u03ba, \u03ba\u03b1\u03c0\u03c0\u03b1 kappa k (c)\n\u039b \u03bb \u03bb\u03b1\u00b5\u03b2\u03b4\u03b1 lambda l\n\u039c \u00b5 \u00b5\u03c5 my m\n\u039d \u03bd \u03bd\u03c5 ny n\n\u039e \u03be \u03be\u03b9 xi x\n\u039f \u03bf \u03bf \u00b5\u03b9\u03ba\u03c1\u03bf\u03bd \u00f3micron o breve\n\u03a0 \u03c0, \u03c0\u03b9 pi p\n\u03a1 \u03c1, \u03c1\u03c9 rho r\n\u03a3 \u03c3, \u03c2 \u03c3\u03b9\u03b3\u00b5\u03b1 sigma s\n\u03a4 \u03c4 \u03c4\u03b1\u03c5 tau t\n\u03a5, \u03d2 \u03c5 \u03c5 \u03c8\u03b9\u03bb\u03bf\u03bd \u00edpsilon y\n\u03a6 \u03c6, \u03d5 \u03d5\u03b9 phi (fi) ph (f)\n\u03a7 \u03c7 \u03c7\u03b9 ji ch (c, qu)\n\u03a8 \u03c8 \u03c8\u03b9 psi ps\n\u03a9 \u03c9, \u03d6 \u03c9 \u00b5\u03b5\u03b3\u03b1 omega o larga",
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                ]
+            ]
+        },
+        {
+            "page": 14,
+            "tables": [
+                [
+                    [
+                        "magnitud",
+                        "s\u00edmbolo",
+                        "valor"
+                    ],
+                    [
+                        "carga el\u00e9ctrica elemental",
+                        "e",
+                        "1.602 177 3310-19 C"
+                    ],
+                    [
+                        "constante de Boltzmann",
+                        "k=R/N\nA",
+                        "1.380 66210-23 J/K"
+                    ],
+                    [
+                        "constante de Coulomb",
+                        "1/4\u03c0\n0",
+                        "8.987 552109 Nm2/C2"
+                    ],
+                    [
+                        "constante de estructura fina",
+                        "\u03b1",
+                        "7.297 35010-3 \u2248 1/137"
+                    ],
+                    [
+                        "constante de Faraday",
+                        "N e\nA",
+                        "9.648 384104 C/mol"
+                    ],
+                    [
+                        "constante de gravitaci\u00f3n",
+                        "G",
+                        "6.672 010-11 Nm2/kg2"
+                    ],
+                    [
+                        "constante de los gases",
+                        "R",
+                        "8.314 409 J/molK\n0.082 057 atml/molK\n1.987 cal/molK"
+                    ],
+                    [
+                        "constante de Planck",
+                        "h\n=h/2\u03c0",
+                        "6.626 17610-34 Js\n1.054 58910-34 Js"
+                    ],
+                    [
+                        "constante de Rydberg",
+                        "R\n\u221e",
+                        "1.097 324107 m-1"
+                    ],
+                    [
+                        "constante de Stefan-Boltzmann",
+                        "\u03c3",
+                        "5.670 31610-8 W/m2K4"
+                    ],
+                    [
+                        "constante de Wien",
+                        "\u03bb T\nm",
+                        "2.8810-3 mK"
+                    ],
+                    [
+                        "longitud de onda Compton ...\n... del electr\u00f3n\n... del prot\u00f3n",
+                        "\u03bb\nC,e\n\u03bb\nC,p",
+                        "2.426 34610-12 m\n1.321 41010-15 m"
+                    ],
+                    [
+                        "magnet\u00f3n de Bohr",
+                        "\u00b5\nB",
+                        "9.274 15010-24 J/T"
+                    ],
+                    [
+                        "magnet\u00f3n nuclear",
+                        "\u00b5\nn",
+                        "5.050 78610-27 J/T"
+                    ],
+                    [
+                        "masa en reposo del electr\u00f3n",
+                        "m\ne",
+                        "0.910 939 610-30 kg\n5.485 802 610-4 u"
+                    ],
+                    [
+                        "masa en reposo del neutr\u00f3n",
+                        "m\nn",
+                        "1.674 928 810-27 kg\n1.008 665 012 u"
+                    ],
+                    [
+                        "masa en reposo del prot\u00f3n",
+                        "m\np",
+                        "1.672 623 110-27 kg\n1.007 276 470 u"
+                    ],
+                    [
+                        "n\u00famero de Avogadro",
+                        "N\nA",
+                        "6.022 0451023 mol-1"
+                    ],
+                    [
+                        "n\u00famero de Loschmidt",
+                        "L",
+                        "2.686 7541025 m-3"
+                    ],
+                    [
+                        "permeabilidad del vac\u00edo",
+                        "\u00b5\n0",
+                        "4\u03c010-7 H/m"
+                    ]
+                ]
+            ]
+        },
+        {
+            "page": 15,
+            "tables": [
+                [
+                    [
+                        "magnitud",
+                        "s\u00edmbolo",
+                        "valor"
+                    ],
+                    [
+                        "permitividad del vac\u00edo",
+                        "0",
+                        "8.854 18810-12 F/m"
+                    ],
+                    [
+                        "punto triple del agua",
+                        "T\n0",
+                        "273.16 K"
+                    ],
+                    [
+                        "radio cl\u00e1sico del electr\u00f3n",
+                        "r\n0",
+                        "2.818 06410-15 m"
+                    ],
+                    [
+                        "radio de Bohr",
+                        "a\n0",
+                        "5.292 00810-11 m"
+                    ],
+                    [
+                        "raz\u00f3n e/m para el electr\u00f3n",
+                        "e/m\ne",
+                        "1.758 8181011 C/kg"
+                    ],
+                    [
+                        "raz\u00f3n cu\u00e1ntica para la carga",
+                        "h/e",
+                        "4.135 73210-15 Js/C"
+                    ],
+                    [
+                        "velocidad de la luz en el vac\u00edo",
+                        "c",
+                        "2.997 924 58108 m/s"
+                    ],
+                    [
+                        "volumen molar del gas ideal (CN)\n(T =273.15 K, p =1 atm)\n0 0",
+                        "v\n0",
+                        "22.413 83 l/mol"
+                    ]
+                ],
+                [
+                    [
+                        "magnitud",
+                        "s\u00edmbolo",
+                        "valor"
+                    ],
+                    [
+                        "aceleraci\u00f3n gravitatoria normal",
+                        "g",
+                        "9.806 65 m/s2"
+                    ],
+                    [
+                        "velocidad del sonido en el aire (CN)",
+                        "c",
+                        "340 m/s"
+                    ],
+                    [
+                        "peso molecular del aire",
+                        "M",
+                        "28.996"
+                    ],
+                    [
+                        "densidad del aire (20\u00b0C)",
+                        "\u03c1\naire",
+                        "1.29 kg/m3"
+                    ],
+                    [
+                        "densidad del agua (4\u00b0C)",
+                        "\u03c1\nagua",
+                        "1000 kg/m3"
+                    ],
+                    [
+                        "presi\u00f3n y temperatura (CN)",
+                        "",
+                        "1.013 250105 Pa, 273.15 K"
+                    ],
+                    [
+                        "calor fusi\u00f3n del agua",
+                        "L\nf",
+                        "79.7 cal/g"
+                    ],
+                    [
+                        "calor vaporizaci\u00f3n del agua",
+                        "L\nv",
+                        "540 cal/g"
+                    ],
+                    [
+                        "equivalente mec\u00e1nico de la calor\u00eda",
+                        "J",
+                        "1 cal = 4.184 J"
+                    ],
+                    [
+                        "equivalente energ\u00e9tico de la masa\n(E=mc2)",
+                        "",
+                        "1 u = 931.494 3 MeV\n1 kg = 8.987 5511016 J\n= 5.609 5861035 eV"
+                    ],
+                    [
+                        "masa del Sol",
+                        "M\nS",
+                        "1.9911030 kg"
+                    ],
+                    [
+                        "masa de la Tierra",
+                        "M\nT",
+                        "5.9791024 kg"
+                    ],
+                    [
+                        "radio de la Tierra",
+                        "R\nT",
+                        "6.371106 m"
+                    ],
+                    [
+                        "radio de la \u00f3rbita de la Tierra",
+                        "",
+                        "1.501011 m"
+                    ],
+                    [
+                        "periodo de revoluci\u00f3n de la Tierra",
+                        "",
+                        "3.155 815107 s"
+                    ]
+                ]
+            ]
+        },
+        {
+            "page": 16,
+            "tables": [
+                [
+                    [
+                        "magnitud",
+                        "s\u00edmbolo",
+                        "valor"
+                    ],
+                    [
+                        "periodo de rotaci\u00f3n de la Tierra",
+                        "",
+                        "8.616 406104 s (d\u00edasid\u00e9reo)"
+                    ],
+                    [
+                        "masa de la Luna",
+                        "M\nL",
+                        "7.3541022 kg"
+                    ],
+                    [
+                        "radio de la Luna",
+                        "R\nL",
+                        "1.738 3106 m"
+                    ],
+                    [
+                        "radio de la \u00f3rbita de la Luna",
+                        "",
+                        "3.84108 m"
+                    ],
+                    [
+                        "periodo de revoluci\u00f3n y de rotaci\u00f3n\nde la Luna",
+                        "",
+                        "2.360 55106 s"
+                    ]
+                ],
+                [
+                    [
+                        "Planeta",
+                        "Masa\n(Tierra=1)",
+                        "Radiomedio\n(Tierra=1)",
+                        null,
+                        "Periodode\nrotaci\u00f3n\n(d\u00edassiderales)",
+                        "Densidad\n(agua=1)",
+                        "Gravedad\n(Tierra=1)",
+                        null
+                    ],
+                    [
+                        "Mercurio",
+                        "0.0532",
+                        "0.3819",
+                        null,
+                        "58.815 1",
+                        "5.72",
+                        "0.39",
+                        null
+                    ],
+                    [
+                        "Venus",
+                        "0.8167",
+                        "0.9500",
+                        null,
+                        "R224.588",
+                        "5.12",
+                        "0.90",
+                        null
+                    ],
+                    [
+                        "Tierra",
+                        "1.0000",
+                        "1.0000",
+                        null,
+                        "1.000",
+                        "5.51",
+                        "1.00",
+                        null
+                    ],
+                    [
+                        "Marte",
+                        "0.10734",
+                        "0.5306",
+                        null,
+                        "1.028 766",
+                        "3.90",
+                        "0.40",
+                        null
+                    ],
+                    [
+                        "J\u00fapiter",
+                        "317.929",
+                        "10.949",
+                        null,
+                        "0.411 192",
+                        "1.25",
+                        "2.56",
+                        null
+                    ],
+                    [
+                        "Saturno",
+                        "95.0661",
+                        "9.1377",
+                        null,
+                        "0.427 556",
+                        "0.61",
+                        "1.06",
+                        null
+                    ],
+                    [
+                        "Urano",
+                        "14.521",
+                        "3.6837",
+                        null,
+                        "R0.450 397",
+                        "1.35",
+                        "0.96",
+                        null
+                    ],
+                    [
+                        "Neptuno",
+                        "17.177",
+                        "3.5654",
+                        null,
+                        "0.657 490",
+                        "2.20",
+                        "1.39",
+                        null
+                    ],
+                    [
+                        "Plut\u00f3n",
+                        "0.1806",
+                        "0.8946",
+                        null,
+                        "6.410 1",
+                        "?",
+                        "0.23",
+                        null
+                    ],
+                    [
+                        "Planeta",
+                        "semiejemayor\ndela\u00f3rbita\n(Tierra=1)",
+                        null,
+                        "excentricidad\ndela\u00f3rbita",
+                        "Periodode\nrevoluci\u00f3n\n(a\u00f1ossiderales)",
+                        "inclinaci\u00f3n\ndela\u00f3rbita",
+                        null,
+                        "N\u00famero\nde\nsat\u00e9lites"
+                    ],
+                    [
+                        "Mercurio",
+                        "0.387",
+                        null,
+                        "0.2056",
+                        "0.240 899",
+                        "7.003\u00b0",
+                        null,
+                        "0"
+                    ],
+                    [
+                        "Venus",
+                        "0.723",
+                        null,
+                        "0.0068",
+                        "0.615 185",
+                        "3.394\u00b0",
+                        null,
+                        "0"
+                    ],
+                    [
+                        "Tierra",
+                        "1.000",
+                        null,
+                        "0.0167",
+                        "1.000",
+                        "0.000\u00b0",
+                        null,
+                        "1"
+                    ],
+                    [
+                        "Marte",
+                        "1.523",
+                        null,
+                        "0.0934",
+                        "1.880 82",
+                        "1.850\u00b0",
+                        null,
+                        "2"
+                    ],
+                    [
+                        "J\u00fapiter",
+                        "5.202",
+                        null,
+                        "0.0484",
+                        "11.861 3",
+                        "1.309\u00b0",
+                        null,
+                        "12"
+                    ],
+                    [
+                        "Saturno",
+                        "9.554",
+                        null,
+                        "0.0543",
+                        "29.456 8",
+                        "2.493\u00b0",
+                        null,
+                        "10"
+                    ],
+                    [
+                        "Urano",
+                        "19.218",
+                        null,
+                        "0.0460",
+                        "84.008 1",
+                        "0.773\u00b0",
+                        null,
+                        "5"
+                    ],
+                    [
+                        "Neptuno",
+                        "30.109",
+                        null,
+                        "0.0082",
+                        "164.784",
+                        "1.779\u00b0",
+                        null,
+                        "2"
+                    ],
+                    [
+                        "Plut\u00f3n",
+                        "39.517",
+                        null,
+                        "0.2481",
+                        "248.35",
+                        "17.146\u00b0",
+                        null,
+                        "?"
+                    ]
+                ]
+            ]
+        },
+        {
+            "page": 17,
+            "tables": [
+                [
+                    [
+                        "magnitud",
+                        "nombre",
+                        "s\u00edmbolo",
+                        "equivalencia"
+                    ],
+                    [
+                        "longitud",
+                        "inch (pulgada)",
+                        "in, \"",
+                        "2.540 cm"
+                    ],
+                    [
+                        null,
+                        "foot (pie) =12in",
+                        "ft",
+                        "30.48 cm"
+                    ],
+                    [
+                        null,
+                        "yard (yarda) =3ft",
+                        "yd",
+                        "0.914 4 m"
+                    ],
+                    [
+                        null,
+                        "mile (milla) =1760yd=5280ft",
+                        "",
+                        "1 609.344 m"
+                    ],
+                    [
+                        null,
+                        "milla n\u00e1utica (int.)",
+                        "",
+                        "1 852 m"
+                    ],
+                    [
+                        "velocidad",
+                        "knot (nudo) [n\u00e1ut. int.]",
+                        "",
+                        "1 milla n\u00e1ut./h\n1.852 km/h"
+                    ],
+                    [
+                        "volumen",
+                        "gal\u00f3n (ingl\u00e9s)",
+                        "",
+                        "4.536 l"
+                    ],
+                    [
+                        null,
+                        "gal\u00f3n (USA)",
+                        "",
+                        "3.785 l"
+                    ],
+                    [
+                        "masa",
+                        "pound (libra)",
+                        "lb",
+                        "0.453 592 37 kg"
+                    ],
+                    [
+                        null,
+                        "slug",
+                        "slug",
+                        "14.593 9 kg"
+                    ],
+                    [
+                        null,
+                        "ton (brit\u00e1nica)",
+                        "ton",
+                        "1 016 kg"
+                    ],
+                    [
+                        null,
+                        "ton (USA)",
+                        "ton",
+                        "907.2 kg"
+                    ],
+                    [
+                        "fuerza",
+                        "pound wt (librafuerza)",
+                        "lb wt",
+                        "4.448 221 N"
+                    ],
+                    [
+                        null,
+                        "poundal =1/32.1740poundwt",
+                        "",
+                        "0.138 255 N\n0.014 098 1 kg"
+                    ],
+                    [
+                        "energ\u00eda,\ntrabajo",
+                        "foot pound (pie libra)",
+                        "ftlb",
+                        "1.355 82 J"
+                    ],
+                    [
+                        null,
+                        "foot poundal",
+                        "",
+                        "0.042 140 11 J"
+                    ],
+                    [
+                        null,
+                        "british thermal unit",
+                        "Btu",
+                        "1 Btu = 252 cal\n1 Btu = 1 055 J"
+                    ],
+                    [
+                        "potencia",
+                        "foot pound per second\n(pielibraporsegundo)",
+                        "ftlb/s",
+                        "1.355 82 W"
+                    ],
+                    [
+                        null,
+                        "horse power =550ftlb/s",
+                        "HP",
+                        "745.700 W"
+                    ],
+                    [
+                        "presi\u00f3n",
+                        "pound wt per sq. inch\n(libra-fuerzaporpulgadacuadrado)",
+                        "lb/in2,\npsi",
+                        "6 894.756 Pa"
+                    ],
+                    [
+                        null,
+                        "pound wt per sq. foot\n(libra-fuerzaporpiecuadrado)",
+                        "lb/ft2",
+                        "47.880 252 Pa"
+                    ]
+                ]
+            ]
+        }
+    ]
+}
